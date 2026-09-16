@@ -53,3 +53,42 @@
 
 // let contvetInBoolean = Boolean(logIN)
 // console.log(contvetInBoolean);
+
+
+
+// =========================>>> OPERSTIONS (operators) <<<============================//
+
+// Negative valyue assign krna ik variable main
+
+let value = 34;
+let NegValue = - value
+// console.log(NegValue);
+
+
+// console.log( 2+2);  --> add
+// console.log(10-3);  --> subs
+// console.log(2*2);  -->multi
+// console.log(3**4);  -->power
+// console.log(10/5);  --> divion
+// console.log(16%3);  -->remainder
+
+
+// two string value combine 
+let str1 = "hello"
+let str2 = " ahmad"
+let str3 = str1 + str2
+// console.log(str3);
+
+
+// string combine concate
+// console.log(2+"2");
+// console.log("10"+2);
+// console.log("2"+"2");
+
+// important confuseeion 
+// console.log("10" +34+34+3); agr star main string h tu output ay ga  combine  
+// console.log(23+34+4+"2");  agr sring bd main use kry gu tu add ho ga
+
+
+ 
+ 
